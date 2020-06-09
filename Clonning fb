@@ -59,7 +59,7 @@ logo = """ ----っ◔◡◔-------っ◔◡◔--------💀
 \033[1;96mAuthor  \033[1;93m: \033[1;92m ASHRAF KHAN
 \033[1;96mInstagram \033[1;93m: \033[1;92m shihab09
 \033[1;96mFacebook  \033[1;93m: \033[1;92m araf.21
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Githuib.com/
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Githuib.com/ASHRAFkhan420
 \033[1;91m======================================="""
  
 def tik():
@@ -104,7 +104,7 @@ while (loop == 'true'):
             os.system('xdg-open https://www.youtube.com/channel/UCx9BzZgR65pO16lcKssyc5Q')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCx9BzZgR65pO16lcKssyc5Q')
+        os.system('xdg-open https://www.youtube.com/chann')
  
 def login():
 	os.system('clear')
